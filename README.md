@@ -20,5 +20,3 @@ A classic two-player Pong game built using Python's `turtle` module, designed wi
 ## 🎮 Controls
 - Player 1 (Left): `W` to move up, `S` to move down  
 - Player 2 (Right): `↑` to move up, `↓` to move down
-
-## 📁 Project Structure
